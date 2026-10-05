@@ -1,4 +1,4 @@
-# Hi, I'm Vinuthna Lakshmi Inti 👋
+# Hi, I'm Vinuthna👋
 
 ### Computer Science (AI & ML) Student | Software Engineering Enthusiast
 
