@@ -1,116 +1,151 @@
-# Hi, I'm Vinuthna👋
+<div align="center">
 
-### Computer Science (AI & ML) Student | Software Engineering Enthusiast
+# Hi, I'm Vinuthna 👋
 
-I'm a Computer Science (AI & ML) undergraduate passionate about **software engineering, backend development, artificial intelligence, and algorithmic problem-solving**.
+### Software Engineering • Backend & Full-Stack Development • Applied AI/ML
 
-I enjoy learning how systems work, building practical applications, solving challenging DSA problems, and contributing to open-source projects.
+I build practical software that connects strong engineering fundamentals with real user needs — from **secure backend APIs and real-time applications** to **ML-powered recommendation systems**.
 
-* 🎓 **B.Tech — Computer Science (AI & ML)**
-* 📈 **CGPA: 9.36/10**
-* 💻 **850+ DSA problems solved**
-* 🏆 **1645 LeetCode contest rating**
-* 🔥 **365+ day coding streak**
-* 🌱 **GirlScript Summer of Code 2026 Contributor**
-* 🥇 **1st Place — GDG Android Hackathon**
-* 🏅 **NPTEL Programming in Java — 95%, Top 5% nationally**
-* 🤝 **Codess.Cafe Mentorship Program** — selected from 2,000+ applicants
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/vinut-hna-coder-6057)
+[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:vinuthnainti28@gmail.com)
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+## About me
 
-**Languages**
+I'm a **B.Tech Computer Science (AI & ML) student at Shri Vishnu Engineering College for Women**, interested in software engineering internships where I can contribute to building reliable, maintainable products.
 
-Java • Python • JavaScript • C • SQL
+- 🎓 **CGPA:** 9.36/10
+- 🧠 **Problem solving:** 850+ DSA problems solved; LeetCode contest rating 1645
+- 🏆 **Achievement:** 1st place in the GDG Android Hackathon
+- 📚 **Academic recognition:** NPTEL Programming in Java — 95%, Top 5% nationally
+- 🌱 **Community:** GirlScript Summer of Code 2026 contributor; Codess.Cafe mentorship alum
+- 🔭 **Current focus:** Backend engineering, system design, testing, and applied AI
 
-**Backend & Frameworks**
+I care about more than getting a feature to work: I want to understand its trade-offs, protect its data, handle edge cases, and make it maintainable.
 
-Spring Boot • Spring Security • Node.js • Express.js • FastAPI
+## Selected projects
 
-**Frontend**
+A few projects that best represent the engineering areas I'm exploring. Open each repository for implementation details, setup instructions, and current project status.
 
-React.js • Angular • Next.js • TypeScript • HTML • CSS
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧭 Mentorax</h3>
+      <p><b>Alumni networking platform | Java, Spring Boot, Flutter, MySQL</b></p>
+      <p>A mobile-first platform for student–alumni networking, account verification and approval, event management, notifications, and real-time messaging.</p>
+      <ul>
+        <li>JWT-protected APIs and role-aware access control</li>
+        <li>OTP verification and password-reset flows</li>
+        <li>WebSocket/STOMP messaging and database migrations</li>
+        <li>Backend, Flutter, and Android build/test workflows</li>
+      </ul>
+      <p><a href="https://github.com/vinut-hna-coder-6057/Mentorax"><b>Explore repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🐛 DebugDSA</h3>
+      <p><b>Real-time DSA debugging platform | React, Node.js, Express, MongoDB, Socket.IO</b></p>
+      <p>A coding platform centered on understanding and fixing buggy code, with challenge workflows, live battles, leaderboards, and progress-oriented gamification.</p>
+      <ul>
+        <li>Real-time participation and battle state updates</li>
+        <li>Authentication and protected application routes</li>
+        <li>Problem-solving workflows and achievement tracking</li>
+      </ul>
+      <p><a href="https://github.com/vinut-hna-coder-6057/Debugdsa-website"><b>Explore repository →</b></a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📈 AdMind</h3>
+      <p><b>Context-aware ad recommendation | Python, FastAPI, Streamlit, FAISS</b></p>
+      <p>An experimentation project for matching ads to video content with semantic similarity, personalization, engagement signals, and feedback-aware ranking.</p>
+      <ul>
+        <li>Sentence Transformer embeddings and vector search</li>
+        <li>Recommendation API and interactive analytics dashboard</li>
+        <li>Feedback and diversity signals in ranking</li>
+      </ul>
+      <p><a href="https://github.com/vinut-hna-coder-6057/admind"><b>Explore repository →</b></a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍲 No Hunger Platform</h3>
+      <p><b>Food donation and distribution | Node.js, Express, MongoDB, Socket.IO</b></p>
+      <p>A role-based platform connecting donors, receivers, and NGOs to coordinate food donations and follow requests through a tracked lifecycle.</p>
+      <ul>
+        <li>JWT authentication and role-aware routes</li>
+        <li>Donation expiry handling and request history</li>
+        <li>Real-time updates and location-aware delivery workflows</li>
+      </ul>
+      <p><a href="https://github.com/vinut-hna-coder-6057/Nohungerplatform"><b>Explore repository →</b></a></p>
+    </td>
+  </tr>
+</table>
 
-**Databases**
+### More work
 
-MySQL • PostgreSQL • MongoDB • SQLite
+- **[Alumni Connect](https://github.com/vinut-hna-coder-6057/alumni-connect)** — Angular and Spring Boot alumni networking, events, and messaging.
+- **[StudyDock](https://github.com/vinut-hna-coder-6057/studydock)** — Manifest V3 browser extension for tracking learning roadmaps and study progress.
+- **[Smart Traffic Demand Forecasting](https://github.com/vinut-hna-coder-6057/Smart-Traffic-Demand-Forecasting)** — forecasting-focused ML project.
+- **[Customer Segmentation](https://github.com/vinut-hna-coder-6057/customer_segmentation)** — data analysis and machine-learning exploration.
+- **[System Design Notes](https://github.com/vinut-hna-coder-6057/systemdesign)** — learning notes on system design concepts.
 
-**AI / ML**
+## Technical toolkit
 
-Machine Learning • NLP • XGBoost • FAISS • Sentence Transformers
+| Area | Technologies |
+|---|---|
+| Languages | Java, Python, JavaScript, C, SQL |
+| Backend | Spring Boot, Spring Security, Node.js, Express.js, FastAPI |
+| Frontend & mobile | React, Angular, TypeScript, HTML, CSS, Flutter |
+| Data stores | MySQL, PostgreSQL, MongoDB, SQLite |
+| AI / ML | Machine Learning, NLP, Sentence Transformers, FAISS, XGBoost |
+| Engineering | REST APIs, JWT, WebSockets/STOMP, Socket.IO, JUnit/Jest, Maven, Git, GitHub Actions |
+| Computer science | Data Structures & Algorithms, OOP, DBMS, Operating Systems, system design fundamentals |
 
-**Tools & Technologies**
+## Problem solving & recognition
 
-Git • GitHub • Jupyter Notebook • Google Colab • REST APIs • WebSocket • Socket.IO • JWT • Jest
+- **850+** DSA problems solved
+- **1645** LeetCode contest rating
+- **1st place** — GDG Android Hackathon
+- **95%** — NPTEL Programming in Java; Top 5% nationally
+- **GirlScript Summer of Code 2026** contributor
+- **Codess.Cafe** mentorship program
 
-**Core CS**
+## GitHub activity
 
-Data Structures & Algorithms • Object-Oriented Programming • Machine Learning • NLP
+<div align="center">
 
----
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinut-hna-coder-6057&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinut-hna-coder-6057&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
 
-## 🧠 Problem Solving
+<img src="https://streak-stats.demolab.com?user=vinut-hna-coder-6057&hide_border=true" alt="GitHub contribution streak" />
 
-I actively practice **Data Structures & Algorithms** and competitive programming.
+</div>
 
-* 🧩 850+ problems solved
-* 🏆 1645 maximum LeetCode contest rating
-* 🔥 365+ day streak
-* 📚 Regularly practice algorithms, problem solving, and competitive programming
----
+> These cards are generated by third-party services and may occasionally be unavailable or delayed.
 
-## 🌱 Open Source
+## How I approach engineering
 
-### GirlScript Summer of Code 2026
+- **Build with purpose:** start with the user journey and the problem to solve.
+- **Design clear boundaries:** keep API, business logic, persistence, and UI responsibilities distinct.
+- **Think about failure cases:** validate inputs, handle errors, and make recovery paths understandable.
+- **Respect security and privacy:** use authentication and authorization deliberately, and avoid exposing unnecessary user data.
+- **Test the important paths:** validate core workflows and regression-prone behavior.
+- **Keep learning:** strengthen fundamentals while shipping practical projects.
 
-* Contributed **3+ merged pull requests**
-* Worked across **React, TypeScript, Node.js, and SQL**
-* Improved authentication and input validation
-* Addressed security and edge-case issues
-* Improved accessibility and API reliability
-* Collaborated with maintainers through code reviews and CI workflows
+## Currently learning
 
----
+**System design · Scalable backend services · Distributed systems fundamentals · CI/CD · Reliable testing · Retrieval-augmented generation (RAG)**
 
-## 📊 Data & Research
+## Let's connect
 
-Published a structured **software engineering interview dataset** on Kaggle containing **635+ interview records**.
+I'm interested in **Software Engineering Internships** and opportunities to collaborate on backend, full-stack, and AI-enabled products.
 
-* Curated and structured unorganized interview experiences
-* Designed **10 structured features** covering company, role, level, topic, and interview patterns
-* Prepared the dataset for interview analytics and predictive modeling
+- **GitHub:** [@vinut-hna-coder-6057](https://github.com/vinut-hna-coder-6057)
+- **Email:** [vinuthnainti28@gmail.com](mailto:vinuthnainti28@gmail.com)
 
----
+<div align="center">
 
-## 🏆 Achievements
+*Thanks for visiting — feel free to explore a repository, open an issue, or connect.*
 
-🥇 **1st Place — GDG Android Hackathon**
-
-🏅 **NPTEL Programming in Java — 95% | Top 5% nationally | Gold Badge**
-
-🤝 **Codess.Cafe Mentorship Program — selected from 2,000+ applicants**
-
-💻 **850+ DSA problems solved**
-
-🏆 **1645 LeetCode contest rating**
-
-🔥 **365+ day coding streak**
-
----
-
-## 👩‍💻 Community
-
-**ACM Member & Webmaster**
-
-Contributing to the ideation and organization of technical events and engaging with the developer community.
-
----
-
-## 🎯 Areas I'm Exploring
-
-**Backend Engineering • Spring Boot • System Design • DSA • AI/ML • NLP • Real-Time Systems • Open Source**
-
----
-
-## 📫 Let's Connect
+</div>
