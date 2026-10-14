@@ -1,151 +1,252 @@
 <div align="center">
 
-# Hi, I'm Vinuthna 👋
+# Hey, I'm Vinuthna 👋
 
-### Software Engineering • Backend & Full-Stack Development • Applied AI/ML
+### Software Engineering • Backend Systems • Applied AI/ML
 
-I build practical software that connects strong engineering fundamentals with real user needs — from **secure backend APIs and real-time applications** to **ML-powered recommendation systems**.
+**I turn ideas into working products — from secure APIs and real-time applications to ML-powered recommendation systems.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github)](https://github.com/vinut-hna-coder-6057)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail)](mailto:vinuthnainti28@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-vinut--hna--coder--6057-181717?style=for-the-badge&logo=github)](https://github.com/vinut-hna-coder-6057)
+
 
 </div>
 
 ---
 
-## About me
-
-I'm a **B.Tech Computer Science (AI & ML) student at Shri Vishnu Engineering College for Women**, interested in software engineering internships where I can contribute to building reliable, maintainable products.
-
-- 🎓 **CGPA:** 9.36/10
-- 🧠 **Problem solving:** 850+ DSA problems solved; LeetCode contest rating 1645
-- 🏆 **Achievement:** 1st place in the GDG Android Hackathon
-- 📚 **Academic recognition:** NPTEL Programming in Java — 95%, Top 5% nationally
-- 🌱 **Community:** GirlScript Summer of Code 2026 contributor; Codess.Cafe mentorship alum
-- 🔭 **Current focus:** Backend engineering, system design, testing, and applied AI
-
-I care about more than getting a feature to work: I want to understand its trade-offs, protect its data, handle edge cases, and make it maintainable.
-
-## Selected projects
-
-A few projects that best represent the engineering areas I'm exploring. Open each repository for implementation details, setup instructions, and current project status.
+## ⚡ At a glance
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧭 Mentorax</h3>
-      <p><b>Alumni networking platform | Java, Spring Boot, Flutter, MySQL</b></p>
-      <p>A mobile-first platform for student–alumni networking, account verification and approval, event management, notifications, and real-time messaging.</p>
-      <ul>
-        <li>JWT-protected APIs and role-aware access control</li>
-        <li>OTP verification and password-reset flows</li>
-        <li>WebSocket/STOMP messaging and database migrations</li>
-        <li>Backend, Flutter, and Android build/test workflows</li>
-      </ul>
-      <p><a href="https://github.com/vinut-hna-coder-6057/Mentorax"><b>Explore repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐛 DebugDSA</h3>
-      <p><b>Real-time DSA debugging platform | React, Node.js, Express, MongoDB, Socket.IO</b></p>
-      <p>A coding platform centered on understanding and fixing buggy code, with challenge workflows, live battles, leaderboards, and progress-oriented gamification.</p>
-      <ul>
-        <li>Real-time participation and battle state updates</li>
-        <li>Authentication and protected application routes</li>
-        <li>Problem-solving workflows and achievement tracking</li>
-      </ul>
-      <p><a href="https://github.com/vinut-hna-coder-6057/Debugdsa-website"><b>Explore repository →</b></a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📈 AdMind</h3>
-      <p><b>Context-aware ad recommendation | Python, FastAPI, Streamlit, FAISS</b></p>
-      <p>An experimentation project for matching ads to video content with semantic similarity, personalization, engagement signals, and feedback-aware ranking.</p>
-      <ul>
-        <li>Sentence Transformer embeddings and vector search</li>
-        <li>Recommendation API and interactive analytics dashboard</li>
-        <li>Feedback and diversity signals in ranking</li>
-      </ul>
-      <p><a href="https://github.com/vinut-hna-coder-6057/admind"><b>Explore repository →</b></a></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍲 No Hunger Platform</h3>
-      <p><b>Food donation and distribution | Node.js, Express, MongoDB, Socket.IO</b></p>
-      <p>A role-based platform connecting donors, receivers, and NGOs to coordinate food donations and follow requests through a tracked lifecycle.</p>
-      <ul>
-        <li>JWT authentication and role-aware routes</li>
-        <li>Donation expiry handling and request history</li>
-        <li>Real-time updates and location-aware delivery workflows</li>
-      </ul>
-      <p><a href="https://github.com/vinut-hna-coder-6057/Nohungerplatform"><b>Explore repository →</b></a></p>
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+
+### 9.36/10
+**CGPA**
+
+</td>
+<td align="center" width="25%">
+
+### 850+
+**DSA Problems**
+
+</td>
+<td align="center" width="25%">
+
+### 1645
+**LeetCode Contest Rating**
+
+</td>
+<td align="center" width="25%">
+
+### 🥇 1st Place
+**GDG Android Hackathon**
+
+</td>
+</tr>
 </table>
 
-### More work
+- 🎓 **B.Tech, Computer Science (AI & ML)** — Shri Vishnu Engineering College for Women
+- 💻 Interested in **Software Engineering Internships** and building products that solve real problems
+- 🏅 **NPTEL Programming in Java:** 95%, Top 5% nationally
+- 🌱 **Community:** GirlScript Summer of Code 2026 contributor · Codess.Cafe mentorship
+- 🔍 Currently sharpening **backend engineering, system design, reliable software, and applied AI**
 
-- **[Alumni Connect](https://github.com/vinut-hna-coder-6057/alumni-connect)** — Angular and Spring Boot alumni networking, events, and messaging.
-- **[StudyDock](https://github.com/vinut-hna-coder-6057/studydock)** — Manifest V3 browser extension for tracking learning roadmaps and study progress.
-- **[Smart Traffic Demand Forecasting](https://github.com/vinut-hna-coder-6057/Smart-Traffic-Demand-Forecasting)** — forecasting-focused ML project.
-- **[Customer Segmentation](https://github.com/vinut-hna-coder-6057/customer_segmentation)** — data analysis and machine-learning exploration.
-- **[System Design Notes](https://github.com/vinut-hna-coder-6057/systemdesign)** — learning notes on system design concepts.
+---
 
-## Technical toolkit
+## 🧰 My engineering toolkit
 
-| Area | Technologies |
+### 👩‍💻 Programming languages
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+### ⚙️ Backend & frameworks
+<p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+
+### 🎨 Frontend & mobile
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</p>
+
+### 🗄️ Databases & data
+<p>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+</p>
+
+### 🤖 AI, ML & information retrieval
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-102230?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/NLP-6A5ACD?style=flat-square" />
+<img src="https://img.shields.io/badge/Sentence_Transformers-FFB000?style=flat-square" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square" />
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=flat-square" />
+<img src="https://img.shields.io/badge/RAG%20%2F%20LLMs-7C3AED?style=flat-square" />
+</p>
+
+### 🛠️ Engineering tools & concepts
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-333333?style=flat-square" />
+</p>
+
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks · System Design fundamentals
+
+---
+
+## 🚀 Projects I'm proud of
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🧑‍🤝‍🧑 [Mentorax](https://github.com/vinut-hna-coder-6057/Mentorax)
+
+**Student–alumni networking platform**
+
+`Java` `Spring Boot` `Flutter` `MySQL`
+
+- Role-aware student, alumni, and admin workflows
+- JWT security, OTP verification, and alumni approval
+- Real-time messaging with STOMP/WebSockets
+- Events, notifications, and database migrations
+
+</td>
+<td width="50%" valign="top">
+
+### 🐛 [DebugDSA](https://github.com/vinut-hna-coder-6057/Debugdsa-website)
+
+**Real-time debugging & coding platform**
+
+`React` `Node.js` `Express` `MongoDB` `Socket.IO`
+
+- Bug-solving workflows and coding battles
+- Real-time participant updates and leaderboards
+- Authentication and protected routes
+- Gamified learning and progress tracking
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 [AdMind](https://github.com/vinut-hna-coder-6057/admind)
+
+**Context-aware ad recommendation engine**
+
+`Python` `FastAPI` `Streamlit` `FAISS`
+
+- Semantic matching with sentence embeddings
+- Personalization and feedback-aware ranking
+- Diversity signals to reduce repetitive recommendations
+- Analytics dashboard for recommendation behavior
+
+</td>
+<td width="50%" valign="top">
+
+### 🍲 [No Hunger Platform](https://github.com/vinut-hna-coder-6057/Nohungerplatform)
+
+**Food donation and delivery coordination**
+
+`Node.js` `Express` `MongoDB` `Socket.IO`
+
+- Donor, receiver, NGO, and admin workflows
+- Donation expiry and request lifecycle tracking
+- Live updates and delivery-location workflows
+- JWT-based access control
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🪞 [LoopLens](https://github.com/vinut-hna-coder-6057/ai-interview-project)
+
+**Interview intelligence & analytics**
+
+`Next.js` `TypeScript` `FastAPI`
+
+A project focused on organizing technical interview insights and helping candidates explore role- and topic-oriented preparation.
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 [StudyDock](https://github.com/vinut-hna-coder-6057/studydock)
+
+**Learning roadmap browser extension**
+
+`JavaScript` `HTML` `CSS` `Chrome Extension API`
+
+A lightweight Manifest V3 extension for creating study plans, tracking module completion, and keeping progress accessible from a browser toolbar or floating panel.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Highlights
+
+| Achievement | Recognition |
 |---|---|
-| Languages | Java, Python, JavaScript, C, SQL |
-| Backend | Spring Boot, Spring Security, Node.js, Express.js, FastAPI |
-| Frontend & mobile | React, Angular, TypeScript, HTML, CSS, Flutter |
-| Data stores | MySQL, PostgreSQL, MongoDB, SQLite |
-| AI / ML | Machine Learning, NLP, Sentence Transformers, FAISS, XGBoost |
-| Engineering | REST APIs, JWT, WebSockets/STOMP, Socket.IO, JUnit/Jest, Maven, Git, GitHub Actions |
-| Computer science | Data Structures & Algorithms, OOP, DBMS, Operating Systems, system design fundamentals |
+| 🥇 GDG Android Hackathon | **1st Place** |
+| ☕ NPTEL Programming in Java | **95% · Top 5% nationally** |
+| 🧩 Data Structures & Algorithms | **850+ problems solved** |
+| 📈 LeetCode | **1645 contest rating** |
+| 🌱 Open source | **GirlScript Summer of Code 2026 contributor** |
+| 🤝 Mentorship | **Codess.Cafe** |
 
-## Problem solving & recognition
+---
 
-- **850+** DSA problems solved
-- **1645** LeetCode contest rating
-- **1st place** — GDG Android Hackathon
-- **95%** — NPTEL Programming in Java; Top 5% nationally
-- **GirlScript Summer of Code 2026** contributor
-- **Codess.Cafe** mentorship program
-
-## GitHub activity
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinut-hna-coder-6057&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub profile statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinut-hna-coder-6057&layout=compact&hide_border=true&langs_count=8" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vinut-hna-coder-6057&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub contribution statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinut-hna-coder-6057&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages on GitHub" />
 
-<img src="https://streak-stats.demolab.com?user=vinut-hna-coder-6057&hide_border=true" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=vinut-hna-coder-6057&hide_border=true&theme=tokyonight" alt="GitHub contribution streak" />
 
 </div>
 
-> These cards are generated by third-party services and may occasionally be unavailable or delayed.
+---
 
-## How I approach engineering
+## 🎯 What I'm focused on
 
-- **Build with purpose:** start with the user journey and the problem to solve.
-- **Design clear boundaries:** keep API, business logic, persistence, and UI responsibilities distinct.
-- **Think about failure cases:** validate inputs, handle errors, and make recovery paths understandable.
-- **Respect security and privacy:** use authentication and authorization deliberately, and avoid exposing unnecessary user data.
-- **Test the important paths:** validate core workflows and regression-prone behavior.
-- **Keep learning:** strengthen fundamentals while shipping practical projects.
+`Backend Engineering` · `System Design` · `DSA` · `Reliable APIs` · `Applied AI/ML` · `RAG & LLMs`
 
-## Currently learning
+I enjoy understanding **why a system works**, where it can fail, and how to make it more reliable — not just getting a demo running.
 
-**System design · Scalable backend services · Distributed systems fundamentals · CI/CD · Reliable testing · Retrieval-augmented generation (RAG)**
+## 🤝 Let's connect
 
-## Let's connect
+I'm looking to learn from strong engineering teams and contribute to products used by real people.
 
-I'm interested in **Software Engineering Internships** and opportunities to collaborate on backend, full-stack, and AI-enabled products.
-
-- **GitHub:** [@vinut-hna-coder-6057](https://github.com/vinut-hna-coder-6057)
-- **Email:** [vinuthnainti28@gmail.com](mailto:vinuthnainti28@gmail.com)
+- 💻 **GitHub:** [Explore my repositories](https://github.com/vinut-hna-coder-6057)
+- 🚀 **Open to:** Software Engineering Internships · Backend · Full Stack · AI-enabled products
 
 <div align="center">
 
-*Thanks for visiting — feel free to explore a repository, open an issue, or connect.*
+### *Build thoughtfully. Solve deeply. Keep improving.* ✨
 
 </div>
