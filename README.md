@@ -44,9 +44,8 @@
 </tr>
 </table>
 
-- 🎓 **B.Tech, Computer Science (AI & ML)** — Shri Vishnu Engineering College for Women
+- 🎓 **B.Tech, Computer Science (AI & ML)** 
 - 💻 Interested in **Software Engineering Internships** and building products that solve real problems
-- 🏅 **NPTEL Programming in Java:** 95%, Top 5% nationally
 - 🌱 **Community:** GirlScript Summer of Code 2026 contributor · Codess.Cafe mentorship
 - 🔍 Currently sharpening **backend engineering, system design, reliable software, and applied AI**
 
